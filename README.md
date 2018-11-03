@@ -1,2 +1,2 @@
-# hexameter
-Hexameter was renamed to Mixite, take a look at that instead.
+# Hexameter
+Hexameter was renamed to Mixite, you can find it [here](https://github.com/Hexworks/mixite).
